@@ -13,9 +13,7 @@ public class MyFirstJavaProgram {
 	Sausage.penDown();
 	Sausage.setPenWidth(20);
 	Sausage.setAngle(500);
-	for(int i + 0; i < 4; i++) {
 	Sausage.move(250);	
 	Sausage.turn(130);
 	}
 	}
-}
